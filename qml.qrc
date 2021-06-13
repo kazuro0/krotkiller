@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Enemy.qml</file>
+        <file>Gamefield.qml</file>
+        <file>images/EXIT.png</file>
+        <file>images/gamefield.png</file>
+        <file>images/START.png</file>
+        <file>images/enemy.png</file>
+        <file>images/losescreen.png</file>
+        <file>images/winscreen.png</file>
+    </qresource>
+</RCC>
