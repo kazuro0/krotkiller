@@ -29,7 +29,6 @@ Window {
 
 
     Image {
-            signal startGame()
             id: b_start
             source: "qrc:/images/START.png"
             width: 143
