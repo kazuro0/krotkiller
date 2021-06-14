@@ -36,7 +36,7 @@ Rectangle {
     }
     function scoreUp(){
         enemies.score++
-        if (enemies.score == 300) {
+        if (enemies.score == 200) {
             winGame()
         }
 
