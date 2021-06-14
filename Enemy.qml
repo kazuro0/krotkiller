@@ -6,8 +6,7 @@ MouseArea{
     height: 118
     width: 118
     onClicked: {
-        enemies.coordx = helper.randx()
-        enemies.coordy = helper.randy()
+        respawnEnemy()
         scoreUp()
     }
 
