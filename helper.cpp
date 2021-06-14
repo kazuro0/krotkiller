@@ -1,10 +1,5 @@
 #include "helper.h"
-#include <QDebug>
-#include <QSet>
-#include <QMap>
 #include <QVector>
-#include <QList>
-#include <QRandomGenerator>
 
 
 helper::helper(QObject *parent) : QObject(parent)
